@@ -1,2 +1,1 @@
-# Project-Work
-Prokect Work with prof. Hayek at HSHL
+# Project Work: Using FPGA for Digital Electronics education
